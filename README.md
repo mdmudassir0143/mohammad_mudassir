@@ -3,6 +3,9 @@
 <!-- <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmudassir0143&label=Profile%20views&color=0e75b6&style=flat" alt="mdmudassir0143" /> </p>
+<p align="center">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=mdmudassir0143&theme=onedark&row=1&column=8">
+</p>
 
 - 🌱 I’m currently learning **React** and **Solidity**
 <h3> About Me </h3>
