@@ -14,7 +14,6 @@
   <img width="660" src="https://github-profile-trophy.vercel.app/?username=mdmudassir0143&theme=onedark&row=1&column=8">
 </p>
 
-<p align="center"> 🌱 I’m currently learning JavaScript, React and Solidity </p>
 <h3 align="center"> About Me </h3>
 <div align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></div>
 <h3 align="center">Languages and Tools:</h3>
